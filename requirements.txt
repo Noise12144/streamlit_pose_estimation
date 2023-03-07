@@ -1,0 +1,11 @@
+opencv-python-headless
+streamlit
+streamlit-webrtc
+mediapipe
+torch
+torchvision
+matplotlib
+PyYAML
+requests
+scipy
+tqdm
